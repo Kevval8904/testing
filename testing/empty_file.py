@@ -1,0 +1,1 @@
+print("this file name is empty_file.py inside folder named nothing")
